@@ -1,3 +1,3 @@
 
 str(raw_data)
-avg(raw_data$overallCustSat)
+mean(raw_data$overallCustSat)

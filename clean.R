@@ -1,2 +1,2 @@
 
-raw_data
+str(raw_data)

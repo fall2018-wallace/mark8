@@ -30,12 +30,17 @@
             "name": "hotelSurveySherison.csv"
         },
         {
-            "name": "clean.R"
+            "assigned_to": "mfurtado",
+            "name": "clean.R",
+            "task_status": "in progress"
         },
         {
             "name": "data.csv"
+        },
+        {
+            "name": "plot1.png"
         }
     ],
-    "updated_at": "2018-10-18 16:49:01",
+    "updated_at": "2018-10-24 20:26:12",
     "url": "https://github.com/fall2018-wallace/mark8"
 }

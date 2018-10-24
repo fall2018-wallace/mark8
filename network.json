@@ -23,6 +23,16 @@
             ],
             "source": "clean.R",
             "target": "data.csv"
+        },
+        {
+            "ports": [
+                {
+                    "output": "plot1",
+                    "type": "png"
+                }
+            ],
+            "source": "clean.R",
+            "target": "plot1.png"
         }
     ],
     "nodes": [
@@ -41,6 +51,6 @@
             "name": "plot1.png"
         }
     ],
-    "updated_at": "2018-10-24 20:26:12",
+    "updated_at": "2018-10-24 20:26:24",
     "url": "https://github.com/fall2018-wallace/mark8"
 }
